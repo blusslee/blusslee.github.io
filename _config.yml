@@ -1,23 +1,23 @@
 # Site settings
-title: Wblearn Blog
-SEOTitle: Wblearn的博客 | Wblearn Blog
+title: BlussLee医学分部
+SEOTitle: BlussLee医学分部 | BlussLee医学分部
 header-img: img/home-bg-art.jpg
-email: 1275660493@qq.com
-description: "@wblearn,记录下自己学习的点滴！"
-keyword: "wblearn, @wblearn, wblearn的博客,wblearn Blog, 博客, 个人网站, 互联网"
-url: "http://wblearn.github.io/"              # your host, for absolute URL
+email: a198554007@gmail.com
+description: "@BlussLee,一个人的自娱自乐！"
+keyword: "BlussLee, @BlussLee, BlussLee的博客,BlussLee医学分部, 博客, 个人网站, 互联网"
+url: "http://blusslee.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     wudalanggd
-csdn_username:     wudalang_gd
-github_username:    wblearn
-#twitter_username:  wblearn
-jianshu_username:  48599dc7ef1b
-sv_username: study-video
+weibo_username:     
+csdn_username:     
+github_username:    blusslee
+#twitter_username:  
+jianshu_username:  
+sv_username: 
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -67,7 +67,7 @@ livere_uid: MTAyMC8yODkzOC81NTA3
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: wblearn.github.io
+ga_domain: blusslee.github.io
 
 
 
@@ -112,11 +112,11 @@ defaults:
 # Friends
 friends: [
     {
-        title: "wblearn的微博",
-        href: "http://weibo.com/wudalanggd"
+        title: "",
+        href: "h"
     },{
-        title: "study video",
-        href: "https://wblearn.github.io/study-video"
+        title: "",
+        href: ""
     }
 ]
 
